@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista3exc6_Myrella", "Lista3exc6_Myrella\Lista3exc6_Myrella.csproj", "{F1D24AF0-D9E3-4C2F-898D-CA0AC3612A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D24AF0-D9E3-4C2F-898D-CA0AC3612A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D24AF0-D9E3-4C2F-898D-CA0AC3612A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D24AF0-D9E3-4C2F-898D-CA0AC3612A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D24AF0-D9E3-4C2F-898D-CA0AC3612A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
