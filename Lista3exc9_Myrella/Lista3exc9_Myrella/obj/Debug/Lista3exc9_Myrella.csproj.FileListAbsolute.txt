@@ -1,0 +1,7 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\obj\Debug\Lista3exc9_Myrella.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\obj\Debug\Lista3exc9_Myrella.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\bin\Debug\Lista3exc9_Myrella.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\bin\Debug\Lista3exc9_Myrella.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\bin\Debug\Lista3exc9_Myrella.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\obj\Debug\Lista3exc9_Myrella.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Lista3exc9_Myrella\Lista3exc9_Myrella\obj\Debug\Lista3exc9_Myrella.pdb
